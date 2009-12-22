@@ -9,7 +9,7 @@ jeditable http://www.appelsiini.net/projects/jeditable
 
 ###############
 Install
-###############
+############
 
 All the files need to be a valid XHTML file!!! 
 
