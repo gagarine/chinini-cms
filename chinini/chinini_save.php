@@ -46,8 +46,8 @@ function read_file($my_file){
 
 
 /*
- * Write a files and return how many byte
- * Return False if the file is not writable
+ * Write a files
+ * @Return False if the file is not writable or byte
  */
 
 function write_file($my_file,$new_content){
