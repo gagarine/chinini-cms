@@ -1,4 +1,3 @@
-
 Autor: Simon Perdrisat 2009
 
 WARNING: This project is a prof of concept DONT USE IN PRODUCTION!!!
@@ -15,7 +14,7 @@ Install
 
 All the files need to be a valid XHTML file
 
-1) copy the chinini in you serveur beside the other html files
+1) copy the chinini-cms on you web server beside the other html files
 
 2) add in the <head> of your file:  <?php require_once('./chinini/chinini_boot.php'); ?>
 
