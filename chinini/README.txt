@@ -3,9 +3,9 @@ Autor: Simon Perdrisat 2009
 
 WARNING: This project is a prof of concept DONT USE IN PRODUCTION!!!
 
-##########
+##############
 Depend of
-##########
+#############
 jquery http://jquery.com/
 jeditable http://www.appelsiini.net/projects/jeditable
 
