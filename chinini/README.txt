@@ -13,7 +13,7 @@ jeditable http://www.appelsiini.net/projects/jeditable
 Install
 ###############
 
-All the files need to be a valid XHTML file!!! 
+All the files need to be a valid XHTML file
 
 1) copy the chinini in you serveur beside the other html files
 
